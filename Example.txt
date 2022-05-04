@@ -1,0 +1,3 @@
+Example Person1;1;10;A person with 1 hat and 10 shoes.
+Example Person2;10;1;A person with 10 hats and only 1 shoe. A surprising combination.
+Example Person3;0;1000;I think this person might be a millipede.
